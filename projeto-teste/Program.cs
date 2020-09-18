@@ -19,12 +19,11 @@ namespace projeto_teste
             Console.ReadLine();
 
 
-            Console.WriteLine("------------------");
-            Console.WriteLine("Branch-00A");
+           
 
             Console.WriteLine("Alteracao de pois do push");
 
-
+            Console.WriteLine("xxxxxxxxxxxxxxxxxx");
 
 
 
