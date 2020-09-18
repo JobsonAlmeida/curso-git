@@ -12,6 +12,7 @@ namespace projeto_teste
 
             Console.WriteLine("Branch-001");
             Console.WriteLine("Nova linha 1");
+            Console.WriteLine("Nova linha 2");
 
             Console.ReadLine();
             
