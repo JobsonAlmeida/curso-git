@@ -7,10 +7,12 @@ namespace projeto_teste
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Branch-00B");
+            Console.WriteLine("Branch-00B ---- Master");
             Console.WriteLine("Linha 01");
             Console.WriteLine("Linha 02");
-            
+
+            Console.WriteLine("-------------------------------------------");
+
         }
     }
 }
