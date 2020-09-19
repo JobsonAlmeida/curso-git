@@ -7,9 +7,9 @@ namespace projeto_teste
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Branch Master");     
+            Console.WriteLine("Branch Master");
+            Console.WriteLine("*******************");
 
-                        
         }
     }
 }
