@@ -25,11 +25,10 @@ namespace projeto_teste
 
             Console.WriteLine("xxxxxxxxxxxxxxxxxx");
 
-<<<<<<< HEAD
             Console.WriteLine("Alteracoes AAAAAA");
-=======
+
             Console.WriteLine("Alterações repositorio 2");
->>>>>>> 259983f5cc388b5a55231d53ecc346f8b4a08a9b
+
 
 
 
