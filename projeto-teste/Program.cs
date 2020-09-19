@@ -33,6 +33,8 @@ namespace projeto_teste
             Console.WriteLine("Altercoes Branch-00A");
 
 
+            Console.WriteLine("Alterações provenientes da pasta rep_localA");
+
 
 
             
